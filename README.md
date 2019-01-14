@@ -1,4 +1,4 @@
-# Real-Time-Editor
+# Online-Code-Editor
 
 Demo: https://andibde.github.io/Online-Code-Editor/
 
